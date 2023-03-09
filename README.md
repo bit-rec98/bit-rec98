@@ -1,16 +1,69 @@
-### Hi there 👋
+-------------------------------------------------------------------------------------
+# Cristian Emanuel Recabarren `:argentina:`
+-------------------------------------------------------------------------------------
+## Acerca de mí 👨‍🎓
+ Actualmente estoy residiendo en la provincia de Córdoba, Argentina. Tengo 24 años y algunas características sobre mí son las siguientes: 
+ - Entusiasta por la tecnología.
+ - Disposición a ayudar a los demás en un grupo de estudio o trabajo.
+ - Buena capacidad de ortografía y cálculo.
+ - Aptitud para el trabajo en equipo y la organización de tareas. 
+ - Capacidad de iniciativa para llevar a cabo ideas y buena adaptación. 
+ - Hábito de autodidactismo. 
 
-<!--
-**bit-rec98/bit-rec98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Educación 🎓
+- Nivel secundario: Instituto Provincial de Educación Técnica 334 (2010-2017). Córdoba.
+ - Instituto Superior Politécnico de Córdoba: 
+a. Tecnicatura en Desarrollo Web y de Aplicaciones Móviles (2023 - actualidad). 
+b. Tecnicatura en Telecomunicaciones y Redes (2023 - actualidad). 
 
-Here are some ideas to get you started:
+### Certificaciones: 
+- Instituto FICDE: Capacitación en primeros auxilios y RCP (2021)
+- Campus virtual de la provincia de Córdoba: Curso de capacitación enfocado en la tecnología Blockchain y criptomonedas (2022).
+- Plataforma 5: Curso introductorio a la programación web (2022).
+- Coursera && ComunidadIT: Certificación de Especialista en Soporte de Tecnologías de la Información de Google (2022).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 🧠
+ - HTML5
+ - CSS
+ - JavaScript
+ - Git & GitHub
+ - Bootstrap
+ - Manejo de escáners de redes blockchain
+ - Atención al cliente 
+ - Inglés (B2-C1) 
+ - Mantenimiento de hardware de PC
+
+## Experiencia 🔨
+- Nivel de experiencia **trainee**. 
+
+-------------------------------------------------------------------------------------
+# Comandos 💻
+## Comandos de la terminal más usados: 
+
+|       Comandos        |       Descripción                      |
+|-----------------------|----------------------------------------|
+|         git           | Comando para manejar Git               |
+|         cd            | Cambiar de directorio                  |
+|         ls            | Listar contenido del directorio actual |
+|         mkdir         | Útil para crear directorios            |
+|         clear         | Limpiar la terminal                    |
+
+## Comandos *Alias* más usados 
+### Estos son mis alias más usados: 
+
+
+- Alias **glo**: 
+```bash 
+    glo= "git log --oneline"
+```
+
+- Alias **rm**: 
+```bash 
+    rm= "trash"
+```
+- Alias **cl**:
+```bash
+    cl= "clear"
+```
+
+
