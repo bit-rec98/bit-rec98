@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------
-# Cristian Emanuel Recabarren `:argentina:`
+# Cristian Emanuel Recabarren 
 -------------------------------------------------------------------------------------
 ## Acerca de mí 👨‍🎓
  Actualmente estoy residiendo en la provincia de Córdoba, Argentina. Tengo 24 años y algunas características sobre mí son las siguientes: 
@@ -35,35 +35,3 @@ b. Tecnicatura en Telecomunicaciones y Redes (2023 - actualidad).
 
 ## Experiencia 🔨
 - Nivel de experiencia **trainee**. 
-
--------------------------------------------------------------------------------------
-# Comandos 💻
-## Comandos de la terminal más usados: 
-
-|       Comandos        |       Descripción                      |
-|-----------------------|----------------------------------------|
-|         git           | Comando para manejar Git               |
-|         cd            | Cambiar de directorio                  |
-|         ls            | Listar contenido del directorio actual |
-|         mkdir         | Útil para crear directorios            |
-|         clear         | Limpiar la terminal                    |
-
-## Comandos *Alias* más usados 
-### Estos son mis alias más usados: 
-
-
-- Alias **glo**: 
-```bash 
-    glo= "git log --oneline"
-```
-
-- Alias **rm**: 
-```bash 
-    rm= "trash"
-```
-- Alias **cl**:
-```bash
-    cl= "clear"
-```
-
-
