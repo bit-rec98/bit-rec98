@@ -13,26 +13,24 @@
 ## Educación 🎓
 - Nivel secundario: Instituto Provincial de Educación Técnica 334 (2010-2017). Córdoba.
  - Instituto Superior Politécnico de Córdoba:
- 
  - Tecnicatura en Desarrollo Web y de Aplicaciones Móviles (2023 - actualidad). 
- - Tecnicatura en Telecomunicaciones y Redes (2023 - actualidad). 
 
 ### Certificaciones: 
 - Instituto FICDE: Capacitación en primeros auxilios y RCP (2021).
 - Campus virtual de la provincia de Córdoba: Curso de capacitación enfocado en la tecnología Blockchain y criptomonedas (2022).
 - Plataforma 5: Curso introductorio a la programación web (2022).
 - Coursera && ComunidadIT: Certificación de Especialista en Soporte de Tecnologías de la Información de Google (2022).
+- Bootcamp enfocado en Diseño UX/UI - NUCBA (2023 - Actualidad) 
 
 ## Habilidades 🧠
  - HTML5
- - CSS
+ - CSS3
  - JavaScript
  - Git & GitHub
  - Bootstrap
  - Manejo de escáners de redes blockchain
  - Comunicación efectiva y oratoria 
- - Inglés (B2-C1) 
- - Mantenimiento de hardware de PC
+ - Inglés (C2) 
 
 ## Experiencia 🔨
 - Nivel de experiencia **trainee**. 
