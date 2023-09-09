@@ -1,36 +1,39 @@
--------------------------------------------------------------------------------------
-# Cristian Emanuel Recabarren 
--------------------------------------------------------------------------------------
-## Acerca de mí 👨‍🎓
- Actualmente estoy residiendo en la provincia de Córdoba, Argentina. Tengo 24 años y algunas características sobre mí son las siguientes: 
- - Entusiasta por la tecnología.
- - Disposición a ayudar a los demás en un grupo de estudio o trabajo.
- - Buena capacidad de ortografía y cálculo.
- - Aptitud para el trabajo en equipo y la organización de tareas. 
- - Capacidad de iniciativa para llevar a cabo ideas y buena adaptación. 
- - Hábito de autodidactismo. 
+# Cristian Emanuel Recabarren
+## About Me 👨‍🎓
 
-## Educación 🎓
-- Nivel secundario: Instituto Provincial de Educación Técnica 334 (2010-2017). Córdoba.
- - Instituto Superior Politécnico de Córdoba:
- - Tecnicatura en Desarrollo Web y de Aplicaciones Móviles (2023 - actualidad). 
+I am currently residing in the province of Córdoba, Argentina. I am 24 years old, and here are some characteristics about me:
 
-### Certificaciones: 
-- Instituto FICDE: Capacitación en primeros auxilios y RCP (2021).
-- Campus virtual de la provincia de Córdoba: Curso de capacitación enfocado en la tecnología Blockchain y criptomonedas (2022).
-- Plataforma 5: Curso introductorio a la programación web (2022).
-- Coursera && ComunidadIT: Certificación de Especialista en Soporte de Tecnologías de la Información de Google (2022).
-- Bootcamp enfocado en Diseño UX/UI - NUCBA (2023 - Actualidad) 
+- Enthusiastic about technology.
+- Willing to help others in a study or work group.
+- Strong spelling and mathematical skills.
+- Aptitude for teamwork and task organization.
+- Initiative to carry out ideas and quick adaptation.
+- Self-learning habit.
 
-## Habilidades 🧠
- - HTML5
- - CSS3
- - JavaScript
- - Git & GitHub
- - Bootstrap
- - Manejo de escáners de redes blockchain
- - Comunicación efectiva y oratoria 
- - Inglés (C2) 
+## Education 🎓
 
-## Experiencia 🔨
-- Nivel de experiencia **trainee**. 
+- Secondary Level: Instituto Provincial de Educación Técnica 334 (2010-2017), Córdoba.
+- Instituto Superior Politécnico de Córdoba:
+  - Web and Mobile Application Development Technician (2023 - present).
+- Certifications:
+  - Instituto FICDE: First Aid and CPR Training (2021).
+  - Virtual Campus of the Province of Córdoba: Training course focused on Blockchain technology and cryptocurrencies (2022).
+  - Plataforma 5: Introductory course to web programming (2022).
+  - Coursera && ComunidadIT: Google IT Support Professional Certificate (2022).
+  - UX/UI Design Bootcamp - NUCBA (2023 - present).
+  - Frontend Web Development with React program Training - Telecom Digitalers Program (April 2023).
+
+## Skills 🧠
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Bootstrap
+- Blockchain network scanning
+- Effective communication and public speaking
+- English (C2)
+
+## Experience 🔨
+
+Junior-level experience.
