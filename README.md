@@ -27,12 +27,21 @@ I am currently residing in the province of Córdoba, Argentina. I am 24 years ol
 
 - HTML5
 - CSS3
+- SASS
 - JavaScript
+- Python
 - Git & GitHub
 - Bootstrap
+- React Bootstrap
+- Vite
+- Npm
+- Yarn
+- Node.js
+- React.js
 - Blockchain network scanning
-- Effective communication and public speaking
-- English (C2)
+- Effective communication and adaptability
+- Agile methodologies
+- English (C2 Level)
 
 ## Experience 🔨
 
