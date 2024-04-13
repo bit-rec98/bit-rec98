@@ -42,7 +42,7 @@ I am currently residing in the province of Córdoba, Argentina. I am 25 years ol
 - MongoDB
 - MySQL
 - Next.js
-- 
+- Figma
 
 ## Experience 🔨
 
