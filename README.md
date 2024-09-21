@@ -1,49 +1,36 @@
-# Cristian Emanuel Recabarren
+# Cristian Emanuel Recabarren  
 ## About Me 👨‍🎓
 
-I am currently residing in the province of Córdoba, Argentina. I am 25 years old, and here are some characteristics about me:
+I am a passionate and adaptable software developer, currently residing in Córdoba, Argentina. My focus is on building robust and scalable applications, both in the Front End and Back End, with a commitment to continuous improvement and teamwork. I excel in effective communication, organization, and problem-solving, which allow me to contribute positively to collaborative environments.
 
-- Enthusiastic about technology.
-- Willing to help others in a study or work group.
-- Effective written and spoken communication.
-- Aptitude for teamwork, tasks organization and team leading.
-- Initiative to carry out ideas and quick adaptation.
-- Self-learning habit.
+- Enthusiastic about technology and personal growth.
+- Strong communication and teamwork skills.
+- Proactive approach to solving problems and learning new tools.
+- Fluent in both Spanish and English (B2-C1 level).
 
 ## Education 🎓
 
-- Secondary Level: Instituto Provincial de Educación Técnica 334 (2010-2017), Córdoba.
-- Instituto Superior Politécnico de Córdoba:
-  - Software and Apps development technical degree (2023 - current).
-- Certifications:
-  - Instituto FICDE: First Aid and CPR Training (2021).
-  - Córdoba's Government Virtual Campus: Blockchain technology and cryptocurrencies from a technical aspect training course (2022).
-  - Plataforma 5: Introductory course to web programming with JavaScript (2022).
-  - Coursera && ComunidadIT: Google IT Support Professional Certificate (2022).
-  - Frontend Web Development with React program training - Telecom's Digitalers Program (April 2023 - November 2023).
-  - Node.js Backend development Bootcamp - NUCBA (March 2024 - current).
+- **Instituto Superior Politécnico de Córdoba**:
+  - **Technical Degree in Web and Application Development** (March 2023 - Present).
+- **Codo a Codo - Buenos Aires Aprende**:
+  - **Full Stack Development with Node.js** (April 2024 - July 2024).
+- **Universidad Tecnológica Nacional (UTN)**:
+  - **Introductory Course to Backend Development with Node.js** (November 2023 - February 2024).
+- **Telecom Digitalers Program - EducacionIT**:
+  - **Frontend Development with React.js** (May 2023 - November 2023).
+- **Plataforma 5**:
+  - **Introductory Course to Web Development with JavaScript** (October 2022 - December 2022).
 
 ## Skills 🧠
 
-- HTML5
-- CSS3
-- SASS
-- JavaScript/TypeScript
-- Git/GitHub
-- Bootstrap
-- React Bootstrap
-- Vite
-- Npm/Yarn
-- Node.js
-- React.js
-- Blockchain network scanning
-- Agile methodologies (Scrum)
-- English (C2 Level)
-- MongoDB
-- MySQL
-- Next.js
-- Figma
+- **Front-End**: HTML5 | CSS3 | Sass | JavaScript | TypeScript | React.js | Angular | TailwindCSS | Material UI | Bootstrap | React Bootstrap.
+- **Back-End**: Node.js | Express.js | REST API | MongoDB | Mongoose | MySQL | Docker.
+- **Tools & Technologies**: Git/GitHub | Figma | Postman | Vite | Npm/Yarn | VirtualBox | GNU Linux (Ubuntu).
+- **Methodologies**: Agile methodologies (Scrum/Kanban).
+- **Languages**: Intermediate-Advanced English (B2-C1).
 
 ## Experience 🔨
 
-Junior-level experience.
+**Freelance Web Developer**  
+*February 2024 - Present*  
+I prospect clients using social media marketing strategies, analyze their business needs, and develop web solutions that meet those needs.
