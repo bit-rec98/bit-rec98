@@ -1,36 +1,46 @@
-# Cristian Emanuel Recabarren  
-## About Me 👨‍🎓
+# 👋 Hello! I'm Cristian Emanuel Recabarren
 
-I am a passionate and adaptable software developer, currently residing in Córdoba, Argentina. My focus is on building robust and scalable applications, both in the Front End and Back End, with a commitment to continuous improvement and teamwork. I excel in effective communication, organization, and problem-solving, which allow me to contribute positively to collaborative environments.
+## 🌐 About Me
 
-- Enthusiastic about technology and personal growth.
-- Strong communication and teamwork skills.
-- Proactive approach to solving problems and learning new tools.
-- Fluent in both Spanish and English (B2-C1 level).
+I am a motivated and adaptable **Full Stack Developer** with a proven track record in both **front-end** and **back-end** development. My strengths include effective communication, efficient organization, and a proactive approach to problem-solving. I thrive in team environments where I can apply my skills in collaboration, research, and self-learning. I am passionate about continuous improvement and always aim to deliver high-quality results in every project.
 
-## Education 🎓
+With experience in **agile methodologies** like **Scrum** and **Kanban**, I excel at managing complex projects. I also have an intermediate-advanced level of **English** (B2-C1), allowing me to communicate effectively in diverse professional settings.
 
-- **Instituto Superior Politécnico de Córdoba**:
-  - **Technical Degree in Web and Application Development** (March 2023 - Present).
-- **Codo a Codo - Buenos Aires Aprende**:
-  - **Full Stack Development with Node.js** (April 2024 - July 2024).
-- **Universidad Tecnológica Nacional (UTN)**:
-  - **Introductory Course to Backend Development with Node.js** (November 2023 - February 2024).
-- **Telecom Digitalers Program - EducacionIT**:
-  - **Frontend Development with React.js** (May 2023 - November 2023).
-- **Plataforma 5**:
-  - **Introductory Course to Web Development with JavaScript** (October 2022 - December 2022).
+## 🛠️ Skills
+- **Frontend**: HTML5 | CSS3 | JavaScript | React.js | Bootstrap | TailwindCSS | Angular | Angular Material | TypeScript
+- **Backend**: Node.js | Express.js | MongoDB | MySQL | Mongoose | Docker | restAPI | Java | Spring | Python
+- **Tools**: Git/GitHub | Postman | Vite | npm/yarn | Figma | VirtualBox | RXJS
+- **Other**: GNU/Linux (Ubuntu) | Agile Methodologies (Scrum/Kanban)
 
-## Skills 🧠
+## 📚 Education
 
-- **Front-End**: HTML5 | CSS3 | Sass | JavaScript | TypeScript | React.js | Angular | TailwindCSS | Material UI | Bootstrap | React Bootstrap.
-- **Back-End**: Node.js | Express.js | REST API | MongoDB | Mongoose | MySQL | Docker.
-- **Tools & Technologies**: Git/GitHub | Figma | Postman | Vite | Npm/Yarn | VirtualBox | GNU Linux (Ubuntu).
-- **Methodologies**: Agile methodologies (Scrum/Kanban).
-- **Languages**: Intermediate-Advanced English (B2-C1).
+### **Full Stack Development with Node.js**  
+*Codo a Codo - Future Skills Agency – Buenos Aires Aprende (April 2024 – July 2024)*  
+**Key Learnings**: JavaScript | Node.js | Express.js | MongoDB | MySQL | Git/GitHub | Vite | Shell | User Experience Design
 
-## Experience 🔨
+### **Introductory Course to Back-end Development with Node.js**  
+*Andén Program – National Technological University (UTN) (November 2023 – February 2024)*  
+**Key Learnings**: JavaScript | Node.js | Postman | restAPI | NoSQL Databases
 
-**Freelance Web Developer**  
-*February 2024 - Present*  
-I prospect clients using social media marketing strategies, analyze their business needs, and develop web solutions that meet those needs.
+### **Frontend Development with React.js**  
+*Digitalers Program - Telecom - EducacionIT (May 2023 – November 2023)*  
+**Key Learnings**: HTML5 | CSS3 | JavaScript | React.js | Git/GitHub | Bootstrap | Performance Optimization | AJAX
+
+### **Higher Technical Degree in Web Development and Application Development**  
+*Instituto Superior Politécnico Córdoba (March 2023 – Present)*  
+**Key Learnings**: HTML5 | CSS3 | JavaScript | TypeScript | Angular | Git/GitHub | Agile Methodologies | Project Management | Java
+
+## 💼 Work Experience
+
+### **Freelance Web Developer**  
+*February 2024 – Present*  
+- Prospected clients through social media marketing strategies.
+- Analyzed business needs and developed tailored web solutions.
+
+## 📫 Contact Me
+
+- 📧 Email: [contact.dev.cristian@gmail.com@gmail.com](mailto:contact.dev.cristian@gmail.com)
+- 💼 LinkedIn: [Cristian Recabarren](https://www.linkedin.com/in/recabarren-cristian/)
+- 🌐 Portfolio: [dotcristian.netlify.app](https://dotcristian.netlify.app/)
+
+Thanks for visiting! Feel free to connect or reach out if you’d like to collaborate on a project. 😊
