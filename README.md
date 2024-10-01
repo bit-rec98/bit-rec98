@@ -2,7 +2,7 @@
 
 ## 🌐 About Me
 
-I am a motivated and adaptable **Full Stack Developer** with a proven track record in both **front-end** and **back-end** development. My strengths include effective communication, efficient organization, and a proactive approach to problem-solving. I thrive in team environments where I can apply my skills in collaboration, research, and self-learning. I am passionate about continuous improvement and always aim to deliver high-quality results in every project.
+I am **Full Stack Developer** with a proven track record in both **front-end** and **back-end** development. My strengths include effective communication, efficient organization, and a proactive approach to problem-solving. I enjoy working in team environments where I can apply my skills in collaboration, research, and self-learning. I am passionate about continuous improvement and focus on delivering high-quality results in every project.
 
 With experience in **agile methodologies** like **Scrum** and **Kanban**, I excel at managing complex projects. I also have an intermediate-advanced level of **English** (B2-C1), allowing me to communicate effectively in diverse professional settings.
 
