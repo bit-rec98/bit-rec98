@@ -8,8 +8,8 @@ With experience in **agile methodologies** like **Scrum** and **Kanban**, I exce
 
 ## 🛠️ Skills
 - **Frontend**: HTML5 | CSS3 | JavaScript | React.js | Bootstrap | TailwindCSS | Angular | Angular Material | TypeScript
-- **Backend**: Node.js | Express.js | MongoDB | MySQL | Mongoose | Docker | restAPI | Java | Spring | Python
-- **Tools**: Git/GitHub | Postman | Vite | npm/yarn | Figma | VirtualBox | RXJS
+- **Backend**: Node.js | Express.js | MongoDB | MySQL/SQL | Mongoose | restAPI | ASP.NET Core | Microservices
+- **Tools**: Git/GitHub | Postman | Vite | npm/bun | Figma | VirtualBox | Docker 
 - **Other**: GNU/Linux (Ubuntu) | Agile Methodologies (Scrum/Kanban)
 
 ## 📚 Education
@@ -31,6 +31,10 @@ With experience in **agile methodologies** like **Scrum** and **Kanban**, I exce
 **Key Learnings**: HTML5 | CSS3 | JavaScript | TypeScript | Angular | Git/GitHub | Agile Methodologies | Project Management | Java
 
 ## 💼 Work Experience
+
+### **Fullstack .NET/Angular Web Developer - FabricArg**  
+*October 2024 – Present*  
+- Developed solutions to specific requirements while applying agile methodologies.
 
 ### **Freelance Web Developer**  
 *February 2024 – Present*  
